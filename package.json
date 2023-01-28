@@ -5,18 +5,18 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /template-parcel"
+    "build": "parcel build src/index.html --public-url /template-parcel/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albuska/Template-parcel.git"
+    "url": "git+https://github.com/albuska/template-parcel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/albuska/Template-parcel/issues"
+    "url": "https://github.com/albuska/template-parcel/issues"
   },
-  "homepage": "https://github.com/albuska/Template-parcel#readme",
+  "homepage": "https://github.com/albuska/template-parcel#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "sass": "^1.57.1"
