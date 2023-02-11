@@ -1,4 +1,7 @@
-console.log('Hello world'); 
+// console.log('Hello world'); 
 
-import validatePassword from './js/validate-password'; 
-console.log(validatePassword); 
+// import validatePassword from './js/validate-password'; 
+// console.log(validatePassword); 
+
+
+
